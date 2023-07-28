@@ -54,7 +54,7 @@ export const Banner = () => {
                 <Col xs={12} md={6} xl={7} >
                     <span className='tagline'>Welcome to my portfolio</span>
                     <h1>{"Hi I'm Agboola Michael Olamide"}<span className='wrap'>  Software Engineer</span></h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit cupiditate accusantium repudiandae nemo optio doloribus culpa facilis magnam maiores. Illum nisi nobis aperiam! Laboriosam nulla facere aliquam accusantium ipsa fuga!</p>
+                    <p>A skilled, passionate and dedicated software engineer with a love for crafting elegant solutions to complex problems. With a background in Mathematics and Computer Science, I thrive on turning innovative ideas into functional and user-friendly applications whilst working on several stack including and not limited to HTML, CSS, JAVASCRIPT, REACT, NODEJS, EXPRESSJS, MONGODB.</p>
                     <button onClick={() => console.log('connect')}> Let's connect <ArrowRightCircle size={25}/></button>
                 </Col>
                 <Col xs={12} md={6} xl={5} >
