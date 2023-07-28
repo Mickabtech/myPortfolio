@@ -39,7 +39,7 @@ export const Slacks = () => {
                     <div className="col-12">
                         <div className="skill-bx wow zoomIn">
                             <h2>Slacks</h2>
-                            <p>Slacks I Use In Developing Amazing Applications</p>
+                            <p>Slacks I Use In Developing Amazing Applications. <br/> You can click on the arrow icon to scroll through.</p>
                             <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                                 <div className="item">
                                     <img src={htmllogo} alt="Image" />
