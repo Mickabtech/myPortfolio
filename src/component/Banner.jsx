@@ -2,7 +2,6 @@ import React from 'react'
 import { useEffect, useState } from 'react'
 import { Col, Container, Row } from 'react-bootstrap'
 import { ArrowRightCircle } from 'react-bootstrap-icons'
-import headerImg from '../assets/img/header-img.svg'
 import robotscg from '../assets/img/robot-202.svg'
 
 export const Banner = () => {
