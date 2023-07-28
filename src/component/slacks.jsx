@@ -39,7 +39,7 @@ export const Slacks = () => {
                     <div className="col-12">
                         <div className="skill-bx wow zoomIn">
                             <h2>Slacks</h2>
-                            <p>Slacks i use in developing amazing Applications</p>
+                            <p>Slacks I Use In Developing Amazing Applications</p>
                             <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                                 <div className="item">
                                     <img src={htmllogo} alt="Image" />
