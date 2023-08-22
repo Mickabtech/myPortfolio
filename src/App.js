@@ -6,13 +6,14 @@ import { Banner } from './component/Banner';
 import { Skills } from './component/Skills';
 import { Slacks } from './component/slacks';
 
+
 const App = () => {
   return (
     <div className='App'>
       <NavBar />
       <Banner />
       <Slacks />
-      <Skills />
+      <Skills /> 
     </div>
   )
 }
