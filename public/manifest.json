@@ -3,17 +3,17 @@
   "name": "Agboola Michael Olamide Portfolio",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "../src/assets/img/mst logo.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "mst logo.png",
+      "src": "../src/assets/img/mst logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "mst logo.png",
+      "src": "../src/assets/img/mst logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
